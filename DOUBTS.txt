@@ -1,0 +1,135 @@
+PENDING WATSAPP STUFFF
+
+Sign Up screen - Mandatory field test
+
+
+
+
+Landing/Home Page
+    done
+
+Transaction 1
+    point 4,5 
+
+Add recipient Page
+    point 1
+    point 2
+
+Confirmation Page
+point 1,5 not reproducible
+
+
+
+First dropdown - UK,Ur
+secind drop - Listcurrencies
+
+if UK is selected, dsiplay rate key data
+UR, then eu_rate
+
+
+
+DOUBTS
+
+createuser
+    userType & username ?
+
+vish_kansara@yahoo99.co.uk
+    07901982844
+
+    {
+"Username":"vish_kansara@yahoo.co.uk",
+"Password":"Vishal!23"
+}
+
+
+{
+    "Url": "https://dataaccess.kansonservices.co.uk/user/4ddffeca-3d49-4319-9f98-276d7bedaf7a",
+    "Id": "4ddffeca-3d49-4319-9f98-276d7bedaf7a",
+    "UserName": "tt@gmail.com",
+    "FullName": "Test Test",
+    "FirstName": null,
+    "LastName": null,
+    "CustId": 1795,
+    "Email": "tt@gmail.com",
+    "EmailConfirmed": true,
+    "TitleId": 0,
+    "UsertTypeId": 0,
+    "UserAccepted": null,
+    "RoleName": null,
+    "Roles": [],
+    "Claims": [],
+    "UserType": "C"
+}
+
+{
+    "access_token": "3BchaNbjiHWimfSXdcumTr2ADfwqkcAq-KxTVg4OUoHIGOpNhHd4mlwoOc78Ne2Uzxx4YoRuAsmtHZ9JwBbQ6s4yhotuOsKnGgd8VXMuYUSy7gofb-z58xq5jG9dS4RQmw635Csx3MMDtpaevmie0mD2TM3dy3f-N3m9yEcmTlhEJjODq8Huf77Z0N6DywGmXPByrRJxxjjylaVjHkMUtEe90yZZz-djLwItOWq6jB8a0Bu49pQmxap2ogke9M1bd_tR0UZRtEJSIwy0m-pxhNAFU204fCHNQSvoQqU4AJGYqnU_e4U1pmvPGxruEYyWM0eMiJoEEXE9VonnNVTxrU3sMy_Y33QG3i35UPGudyeYAi8Orm20N4UrayOIAabvn9-IG-0EWMbx37bEvTxVjYq7iWIhUv95uZa3KwXuKvg8uNbnlpIZD-6YOmH0vrDX44TPlVqNG9-4LENn6XJukvyAfrJXCOVTbDfUtvvkdCIvr4eamsZoRrhOM9grNvlYifk60j174ZUTKflHNXcDwYAC1hd_iHSvMXYiIKhV0GA",
+    "token_type": "bearer",
+    "expires_in": 1209599,
+    "refresh_token": "c18fb693-de9e-4788-9579-898bec732af3",
+    "userId": "4ddffeca-3d49-4319-9f98-276d7bedaf7a",
+    "userName": "tt@gmail.com",
+    "name": "Test Test",
+    "email": "tt@gmail.com",
+    "CustId": "1795",
+    "UserType": "C",
+    ".issued": "Tue, 13 Dec 2022 16:14:51 GMT",
+    ".expires": "Tue, 27 Dec 2022 16:14:51 GMT"
+}
+
+{
+    "access_token": "GPoialbd7ZaqicyoW2WrEZh0bmFAD85nhOqCJYmAtLTeDrgDk4K7czNyY_rd_KZA_JWNjwkXNIk8wguiQmuJgjB6Qj_dYmB1KTfwRjAPBTGXZbCeHVxEBQ2nf2JBynb8kIhIHftI2M6kXFBJq47-ZQMzfRflfwLlzyaXg0K2nPsBwAWsOB1FAySIGB-fd1Ugt2-tU1UKxz43MCf0TlqEb-aPv8laTPyC-FvYpAl-AExTXHA7A32OtIe5e2my2kZj4qdM7VajA0D-1p4P6AODBa7o1WLNEHrkVuy8xO6dhTyJKoaiP5RzerW8Fwzv-9ocewu3LRR3Pj6o2ByJiqgw8HZvfot-yjUbFnRjEXQ6w48G_Xk2hNdIEPgs9mUGw7n0bD4aILYqzbXiN5c2ScueJp0lKjBftxwPBCmhdGqmnGHHQI7TTvkqUETC_6BFuL3kN5hB63HVaoY2wwFrm2sLGP6lrSrdKPhR5gAm43A0VXMBgT_d1JBrrkNsceYxq_0QAUrkL7l_8_nrzLZwuLK6MGQlT6M8wisvNw_cNgK-c8qz92P0fl8f_d3LRa_ZB0SG",
+    "token_type": "bearer",
+    "expires_in": 1209599,
+    "refresh_token": "4a8a2b4d-cc0c-47d5-87f4-a75bacf80e90",
+    "userId": "980a7b84-65b0-4a6f-b200-e4cac8a0833f",
+    "userName": "vish_kansara@yahoo.co.uk",
+    "name": "Vishal Kansara",
+    "email": "vish_kansara@yahoo.co.uk",
+    "CustId": "1792",
+    "UserType": "C",
+    ".issued": "Tue, 13 Dec 2022 16:17:08 GMT",
+    ".expires": "Tue, 27 Dec 2022 16:17:08 GMT"
+}
+
+
+DOUBTS
+1) registration - All fields are mandatory?
+2) forgot password api not working
+3) ListCustomerTransactions - what is the default from & to date to be passed. Add some transactions so that i can Test
+4) Search on View transactions screen. So search by what fields?
+5) While Adding beneficiary, what all fields are mandatory? in what format docuemnt needs to be uploaded,
+6) Country field to be shown as input or dropdwon with country list
+7) Mandatory fields for adding beneficiary
+8) Trsanction Details Screen - what data to be displayed
+
+
+USAGE
+-use redux for storing the listSource currencies, so it can be used throughout
+
+
+------------------------------------------------------------------------------------------------------------
+ISSUES
+Login
+    Icons of userid and password are wrong.
+         There is spacing issue between Remember me and Forgot Password.  --done
+         Text changes there should be By Login, I accept(instead of I accepted) .  --done
+    Icons of user Id and Password fields are different in normal mode as well as when we keep device in dark mode.
+    Shadow on whitebox is different then designing.
+        Sign In button shadow missing and size should be somewhat small. --done
+        Text not Registered Yet match it with designing. --done
+        Checkbox when selected should be in green(Remember me) --done
+    No page is getting opened for terms condition, Privacy Policy and refund Policy.
+
+Dashboard
+    Check the size of the background image of logo.
+    all text should be centered and check the font color of the text.
+    Check the border of all textboxes and dropdown.
+    INR text-box should be drop-down, not proper content is available in dropdown.
+    Designing of pop-up INR, PKP is not as per design.
+    
+    When Radio button is selected match it with designing and INR is not getting selected.
+    Send button should have shadow effect which is missing.
+    Check the color of the shadow of whitebox.
+    Shadow missing on all three footer buttons: My Transaction(check spelling), My Recipient, My Documents.
+    Selected text in Dropdown is not visible.
+    Radio button should be changed as compared to values selected in dropdowns. Please check
